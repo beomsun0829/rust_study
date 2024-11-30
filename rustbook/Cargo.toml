@@ -1,0 +1,6 @@
+[workspace]
+
+members=[
+    "control_flow",
+    "guessing_game",
+]
